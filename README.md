@@ -1,1 +1,1 @@
-# IPEFT-Algorithm in C++
+# IPEFT Algorithm in C++
